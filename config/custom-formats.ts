@@ -1,5 +1,3 @@
-use strict';
-
 exports.Formats = [
   // First custom mod
   {
