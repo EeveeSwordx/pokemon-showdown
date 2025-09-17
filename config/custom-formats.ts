@@ -24,6 +24,5 @@ exports.Formats = [
     name: "Anything Goes",
     desc: "No rules!",
     mod: 'infernalborn', // Folder name in `mods/` directory for this mod
-    ruleset: ['Standard', 'Dynamax Clause'], // Optional: Define rules
   },
 ];
