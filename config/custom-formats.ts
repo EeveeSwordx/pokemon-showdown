@@ -15,7 +15,7 @@ exports.Formats = [
   {
     name: "Monotype",
     desc: "Only one type allowed",
-    mod: 'gen1rbycap', // Folder name in `mods/` directory for this mod
+    mod: 'infernalborn', // Folder name in `mods/` directory for this mod
     ruleset: ['Standard', 'Dynamax Clause'], // Optional: Define rules
     banlist: ['Shadow Tag', 'Baton Pass'], // Optional: Specify banned elements
   },
@@ -23,7 +23,7 @@ exports.Formats = [
 {
     name: "Anything Goes",
     desc: "No rules!",
-    mod: 'gen1rbycap', // Folder name in `mods/` directory for this mod
+    mod: 'infernalborn', // Folder name in `mods/` directory for this mod
     ruleset: ['Standard', 'Dynamax Clause'], // Optional: Define rules
   },
 ];
