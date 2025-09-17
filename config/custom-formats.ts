@@ -1,5 +1,9 @@
 exports.Formats = [
-  // First custom mod
+
+	
+	{
+		section: "S/V Singles",
+	},
   {
     name: "Roleplay Standard",
     desc: "Custom Fakemon from Infernal.",
