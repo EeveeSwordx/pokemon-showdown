@@ -19749,4 +19749,16 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Undiscovered"],
 		gen: 5,
 	},
+	headhaunt: {
+		num: 1026,
+		name: "Headhaunt",
+		types: ["Grass", "Fire"],
+		genderRatio: {M: 0.50, F: 0.50},
+		baseStats: {hp: 80, atk: 110, def: 65, spa: 70, spd: 80, spe: 115},
+		abilities: {0: "Haunting", H: "Grim Neigh"},
+		heightm: 1,
+		weightkg: 13,
+		color: "Green",
+		eggGroups: ["Monster"],
+	},
 };
