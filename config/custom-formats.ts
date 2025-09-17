@@ -1,9 +1,9 @@
 exports.Formats = [
 
 	
-	{
-		section: "S/V Singles",
-	},
+  {
+	 section: "Sworddown Formats",
+  },
   {
     name: "Roleplay Standard",
     desc: "Custom Fakemon from Infernal.",
